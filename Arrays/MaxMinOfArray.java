@@ -1,5 +1,6 @@
 /*
 Maximum and minimum of the array
+{1,4,2,1,56,7,88,65,8}
 */
 public final class MaxMinOfArray {
 
